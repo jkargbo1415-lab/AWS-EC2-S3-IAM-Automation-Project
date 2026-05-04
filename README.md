@@ -88,7 +88,9 @@ Shows files successfully upload to S3 using automation
 7. Create a bash script to automate uploads
 8. Schedule the script using cron
 9. Verify files are uploaded to S3
-    
+## Notes
+-Initial EC2 instance was replaced during troubleshooting
+-Final setup reflects a working, Secure Configuration using IAM roles
 
 
 
